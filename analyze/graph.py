@@ -1,4 +1,14 @@
+"""
+
+"""
+from analyze.vertex import Vertex
+
+
 class Graph:
+    """
+
+    """
+
     def __init__(self):
         self.vertList = {}
         self.numVertices = 0

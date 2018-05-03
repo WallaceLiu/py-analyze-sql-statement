@@ -1,4 +1,13 @@
+"""
+
+"""
+
+
 class Vertex:
+    """
+    Vertext point of Graph
+    """
+
     def __init__(self, key):
         self.id = key
         self.connectedTo = {}
